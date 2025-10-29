@@ -1,2 +1,2 @@
-# odin_recipes
-HTML Project: Receipes
+# NTLW Recipes
+HTML Project: Recipes
